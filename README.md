@@ -2,7 +2,8 @@
 
 ## Overview of Project
 
-### -Analize a set of kickstarter data in order to visualize campaign outcomes based on launch dates and funding goals. 
+### Purpose
+-Analize a set of kickstarter data in order to visualize campaign outcomes based on launch dates and funding goals. 
 
 ## Analysis and Challenges
 
@@ -11,7 +12,7 @@
 ### ![Comparison of Outcomes and Goals](./Images/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-
+- The main challenges was removing excess data from the set that did not pertain to theater outcomes. There were many outliers from other forms of media that skewd data and made analysis more difficulty. In addition the outliers interfered with conditional formating in such a way that that percentiles limits had to be set in order to visualize outcomes. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
