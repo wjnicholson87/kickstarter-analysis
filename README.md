@@ -6,9 +6,9 @@
 
 ## Analysis and Challenges
 
-### ![Theater Outcomes based on Launce Date](./resources/Theater_Outcomes_vs_Launch.png)
+### ![Theater Outcomes based on Launce Date](./Images/Theater_Outcomes_vs_Launch.png)
 
-### ![Comparison of Outcomes and Goals](./resources/Outcomes_vs_Goals.png)
+### ![Comparison of Outcomes and Goals](./Images/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
